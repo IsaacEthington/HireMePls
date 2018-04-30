@@ -1,4 +1,4 @@
-# HireMePls
+# Projects
 These are little things that I hope will make you want to interview me. Still growing. 
 
 About the files:
